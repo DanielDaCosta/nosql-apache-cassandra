@@ -1,6 +1,9 @@
 # nosql-apache-cassandra
 Data modeling in Apache Cassandra
 
+## Databa Schema
+
+
 ## Usage
 Setting cassandra instance with docker:
 
