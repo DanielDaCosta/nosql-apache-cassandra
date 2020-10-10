@@ -1,4 +1,4 @@
-# nosql-apache-cassandra
+# NoSQL with Apache Cassandra
 Data modeling in Apache Cassandra
 
 # Structure
