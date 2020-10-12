@@ -8,7 +8,7 @@ Data modeling in Apache Cassandra
 - etl.ipnyb: Contains all elt code
 - event_data/: contains csv files that will be used to populate our database
 
-## Databa Schema
+## Database Schema
 
 ![DatabaseSchema](images/Schema.png)
 
