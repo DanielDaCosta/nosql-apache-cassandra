@@ -1,5 +1,5 @@
 # NoSQL with Apache Cassandra
-Data modeling in Apache Cassandra
+Database modeling in Apache Cassandra
 
 # Structure
 ## Files
